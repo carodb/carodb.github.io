@@ -8,41 +8,37 @@
 body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    color: #700;
 }
 
 nav, aside, article, footer, section { display: block; }
 
-nav { }
-
 nav ul {
-    display: flex;
-    justify-content: space-around;
     list-style: none;
 }
 
-nav ul li { display: inline-block; }
-
 a {
     text-decoration: none;
+    color: #000;
 }
 
 a:hover {
-    color: #1b1b1b;
+    color: #222;
 }
 
-.row {
-    display: flex;
-    justify-content: space-around;
+.main {
+    padding: 5vw;
+    min-height: 100vh;
+    /*background: url("workspace.jpeg") no-repeat center center fixed;*/
+    background-size: cover;
 }
 
-.heading {
-    font-weight: 700;
+.main h1 {
+    text-align: center;
 }
 
-.column {
-    border: 1px solid black;
-    width: 20%;
-    padding: 5px;
+.overlay {
+    background: linear-gradient(180deg,rgba(0,0,0,.7) 0,transparent 30%,transparent 70%,rgba(0,0,0,.7));
 }
 
 .copyright {
