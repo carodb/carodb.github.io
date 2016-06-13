@@ -1,0 +1,2307 @@
+{
+  "AD": {
+    "name": "Andorra",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AI": {
+    "name": "Anguilla",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AL": {
+    "name": "Albania",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AM": {
+    "name": "Armenia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AO": {
+    "name": "Angola",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AR": {
+    "name": "Argentina",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "Buenos Aires",
+    "inhabitants": ""
+  },
+  "AS": {
+    "name": "American Samoa",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AT": {
+    "name": "Austria",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Vienna",
+    "inhabitants": ""
+  },
+  "AU": {
+    "name": "Australia",
+    "quote": "Kangaroos and Koalas",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Canberra",
+    "inhabitants": ""
+  },
+  "AW": {
+    "name": "Aruba",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AX": {
+    "name": "Åland Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BB": {
+    "name": "Barbados",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BE": {
+    "name": "Belgium",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Brussels",
+    "inhabitants": ""
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BH": {
+    "name": "Bahrain",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BI": {
+    "name": "Burundi",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BJ": {
+    "name": "Benin",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BL": {
+    "name": "Saint Barthélemy",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BM": {
+    "name": "Bermuda",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BN": {
+    "name": "Brunei",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BO": {
+    "name": "Bolivia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BQ": {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BR": {
+    "name": "Brazil",
+    "quote": "",
+    "visited": "true",
+    "pictures": "15",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BS": {
+    "name": "Bahamas",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BT": {
+    "name": "Bhutan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BV": {
+    "name": "Bouvet Island",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BW": {
+    "name": "Botswana",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BY": {
+    "name": "Belarus",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "BZ": {
+    "name": "Belize",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CA": {
+    "name": "Canada",
+    "quote": "Our home and native land.",
+    "visited": "true",
+    "pictures": "80",
+    "area": "",
+    "capital": "Ottawa",
+    "inhabitants": "35 Million"
+  },
+  "CC": {
+    "name": "Cocos (Keeling) Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CD": {
+    "name": "Democratic Republic of the Congo",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CF": {
+    "name": "Central African Republic",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CG": {
+    "name": "Congo",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CH": {
+    "name": "Switzerland",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CI": {
+    "name": "Côte d'Ivoire",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CK": {
+    "name": "Cook Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CL": {
+    "name": "Chile",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CM": {
+    "name": "Cameroon",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CN": {
+    "name": "China",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CO": {
+    "name": "Colombia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "San Jose",
+    "inhabitants": ""
+  },
+  "CU": {
+    "name": "Cuba",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "Havana",
+    "inhabitants": ""
+  },
+  "CV": {
+    "name": "Cabo Verde",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CW": {
+    "name": "Curaçao",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CX": {
+    "name": "Christmas Island",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CY": {
+    "name": "Cyprus",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "CZ": {
+    "name": "Czech Republic",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Prague",
+    "inhabitants": ""
+  },
+  "DE": {
+    "name": "Germany",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Berlin",
+    "inhabitants": ""
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "DK": {
+    "name": "Denmark",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Copenhagen",
+    "inhabitants": ""
+  },
+  "DM": {
+    "name": "Dominica",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "DZ": {
+    "name": "Algeria",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "EC": {
+    "name": "Ecuador",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "EE": {
+    "name": "Estonia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "EG": {
+    "name": "Egypt",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Cairo",
+    "inhabitants": ""
+  },
+  "EH": {
+    "name": "Western Sahara",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ER": {
+    "name": "Eritrea",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ES": {
+    "name": "Spain",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Madrid",
+    "inhabitants": ""
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "FI": {
+    "name": "Finland",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "Helsinki",
+    "inhabitants": ""
+  },
+  "FJ": {
+    "name": "Fiji",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "FK": {
+    "name": "Falkland Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "FM": {
+    "name": "Federated States of Micronesia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "FO": {
+    "name": "Faroe Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "FR": {
+    "name": "France",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "Paris",
+    "inhabitants": ""
+  },
+  "GA": {
+    "name": "Gabon",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GB": {
+    "name": "Great Britian",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "London",
+    "inhabitants": ""
+  },
+  "GD": {
+    "name": "Grenada",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GE": {
+    "name": "Georgia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GF": {
+    "name": "French Guiana",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GG": {
+    "name": "Guernsey",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GH": {
+    "name": "Ghana",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GI": {
+    "name": "Gibraltar",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GL": {
+    "name": "Greenland",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GM": {
+    "name": "Gambia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GN": {
+    "name": "Guinea",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  //  GO !!? //
+  "GO": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GP": {
+    "name": "Guadeloupe",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GQ": {
+    "name": "Equatorial Guinea",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GR": {
+    "name": "Greece",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GS": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GT": {
+    "name": "Guatemala",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GU": {
+    "name": "Guam",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "GY": {
+    "name": "Guyana",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "HK": {
+    "name": "Hong Kong",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "HM": {
+    "name": "Heard Island and McDonald Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "HN": {
+    "name": "Honduras",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "HR": {
+    "name": "Croatia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "HT": {
+    "name": "Haiti",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "HU": {
+    "name": "Hungary",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ID": {
+    "name": "Indonesia",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IE": {
+    "name": "Ireland",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IL": {
+    "name": "Israel",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IM": {
+    "name": "Isle of Man",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IN": {
+    "name": "India",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IO": {
+    "name": "British Indian Ocean Territory",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IQ": {
+    "name": "Iraq",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IR": {
+    "name": "Iran",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IS": {
+    "name": "Iceland",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "IT": {
+    "name": "Italy",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "JE": {
+    "name": "Jersey",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "JM": {
+    "name": "Jamaica",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "JO": {
+    "name": "Jordan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "JP": {
+    "name": "Japan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "JU": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KE": {
+    "name": "Kenya",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KH": {
+    "name": "Cambodia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KI": {
+    "name": "Kiribati",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KM": {
+    "name": "Comoros",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KP": {
+    "name": "North Korea",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KR": {
+    "name": "South Korea",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "XK": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KW": {
+    "name": "Kuwait",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KY": {
+    "name": "Cayman Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LA": {
+    "name": "Laos",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LB": {
+    "name": "Lebanon",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LR": {
+    "name": "Liberia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LS": {
+    "name": "Lesotho",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LT": {
+    "name": "Lithuania",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LV": {
+    "name": "Latvia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "LY": {
+    "name": "Libya",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MA": {
+    "name": "Morocco",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MC": {
+    "name": "Monaco",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MD": {
+    "name": "Moldova",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ME": {
+    "name": "Montenegro",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MF": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MG": {
+    "name": "Madagascar",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MH": {
+    "name": "Marshall Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MK": {
+    "name": "Macedonia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ML": {
+    "name": "Mali",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MM": {
+    "name": "Myanmar",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MN": {
+    "name": "Mongolia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MO": {
+    "name": "Macao",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MP": {
+    "name": "Northern Mariana Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MQ": {
+    "name": "Martinique",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MR": {
+    "name": "Mauritania",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MS": {
+    "name": "Montserrat",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MT": {
+    "name": "Malta",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MU": {
+    "name": "Mauritius",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MV": {
+    "name": "Maldives",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MW": {
+    "name": "Malawi",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MX": {
+    "name": "Mexico",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MY": {
+    "name": "Malaysia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NA": {
+    "name": "Namibia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NC": {
+    "name": "New Caledonia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NE": {
+    "name": "Niger",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NF": {
+    "name": "Norfolk Island",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NG": {
+    "name": "Nigeria",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NL": {
+    "name": "Netherlands",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NO": {
+    "name": "Norway",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NP": {
+    "name": "Nepal",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NR": {
+    "name": "Nauru",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NU": {
+    "name": "Niue",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "OM": {
+    "name": "Oman",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PA": {
+    "name": "Panama",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PE": {
+    "name": "Peru",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PF": {
+    "name": "French Polynesia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PG": {
+    "name": "Papua New Guinea",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PH": {
+    "name": "Philippines",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PK": {
+    "name": "Pakistan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PL": {
+    "name": "Poland",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PM": {
+    "name": "Saint Pierre and Miquelon",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PN": {
+    "name": "Pitcairn",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PR": {
+    "name": "Puerto Rico",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PS": {
+    "name": "Palestine",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PT": {
+    "name": "Portugal",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PW": {
+    "name": "Palau",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "PY": {
+    "name": "Paraguay",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "QA": {
+    "name": "Qatar",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "RE": {
+    "name": "Réunion",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "RO": {
+    "name": "Romania",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "RS": {
+    "name": "Serbia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "RU": {
+    "name": "Russia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "RW": {
+    "name": "Rwanda",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SB": {
+    "name": "Solomon Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SC": {
+    "name": "Seychelles",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SD": {
+    "name": "Sudan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SE": {
+    "name": "Sweden",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SG": {
+    "name": "Singapore",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SH": {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SI": {
+    "name": "Slovenia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SJ": {
+    "name": "Svalbard and Jan Mayen",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SK": {
+    "name": "Slovakia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SM": {
+    "name": "San Marino",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SN": {
+    "name": "Senegal",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SO": {
+    "name": "Somalia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SR": {
+    "name": "Suriname",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SS": {
+    "name": "South Sudan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ST": {
+    "name": "Sao Tome and Principe",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SV": {
+    "name": "El Salvador",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SX": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SY": {
+    "name": "Syria",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "SZ": {
+    "name": "Swaziland",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TC": {
+    "name": "Turks and Caicos Islands",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TD": {
+    "name": "Chad",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TF": {
+    "name": "French Southern Territories",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TG": {
+    "name": "Togo",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TH": {
+    "name": "Thailand",
+    "quote": "",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TK": {
+    "name": "Tokelau",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TL": {
+    "name": "Timor-Leste",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TN": {
+    "name": "Tunisia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TO": {
+    "name": "Tonga",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TR": {
+    "name": "Turkey",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TW": {
+    "name": "Taiwan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UA": {
+    "name": "Ukraine",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UG": {
+    "name": "Uganda",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UM-DQ": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UM-FQ": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UM-HQ": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UM-JQ": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UM-MQ": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UM-WQ": {
+    "name": "",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "US": {
+    "name": "United States",
+    "quote": "Freedom!",
+    "visited": "true",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UY": {
+    "name": "Uruguay",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "VA": {
+    "name": "Vatican City",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "VE": {
+    "name": "Venezuela",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "VG": {
+    "name": "Virgin Islands, British",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "VI": {
+    "name": "Virgin Islands, U.S.",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "VN": {
+    "name": "Vietnam",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "WF": {
+    "name": "Wallis and Futuna",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "WS": {
+    "name": "Samoa",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "YE": {
+    "name": "Yemen",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "YT": {
+    "name": "Mayotte",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ZA": {
+    "name": "South Africa",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ZM": {
+    "name": "Zambia",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "quote": "",
+    "visited": "false",
+    "pictures": "",
+    "area": "",
+    "capital": "",
+    "inhabitants": ""
+  }
+}
