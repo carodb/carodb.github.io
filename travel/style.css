@@ -120,10 +120,11 @@ g .country:hover {
     /*height: 100%;*/
     height: calc(100% - 2px);
     background-color: #1c1b39;
-    width: 310px;
+    width: 50vw;
     position: absolute;
-    top: 0;
-    left: 40%;
+    top: 0; bottom: 0;
+    left: 0; right: 0;
+    margin: 0 auto;
     border: 1px solid #fff;
     opacity: 0.95;
 }
@@ -270,4 +271,10 @@ g .country:hover {
     font-family: 'Times', serif;
     font-style: italic;
     color: #3c3a7a;
+}
+
+@media (min-width: 768px) {
+    #overlay {
+        width: 40vw;
+    }
 }
