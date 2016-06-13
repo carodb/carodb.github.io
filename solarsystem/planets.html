@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3.js</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .note {
+            z-index: 1;
+            color: #fff;
+            position: absolute;
+            bottom: 0;
+        }
+
+        canvas {
+            z-index: -99999;
+        }
+    </style>
+</head>
+<body>
+<script src="js/three.min.js"></script>
+<script src="js/OrbitControls.js"></script>
+<script>
+    let scene = new THREE.Scene();
+    let camera = new THREE.PerspectiveCamera(100, window.innerWidth / window.innerHeight, 0.1, 1000);
+
+    let renderer = new THREE.WebGLRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+    let controls = new THREE.OrbitControls(camera, renderer.domElement);
+
+    /**
+     * WORLD MAP
+     */
+    let loader = new THREE.TextureLoader();
+
+    function createPlanets(textureURL, size, position, rotation) {
+        let texture = loader.load(textureURL);
+        let material = new THREE.MeshBasicMaterial({color: 0xffffff, wireframe: false, map: texture});
+        let geo = new THREE.SphereGeometry(size, 32, 32);
+        let circle = new THREE.Mesh(geo, material);
+
+        circle.position.x = position;
+        circle.rotation.y += rotation;
+        scene.add(circle);
+//            requestAnimationFrame(createPlanets);
+    }
+
+    function createLine(x, y) {
+        let curve = new THREE.EllipseCurve(
+                0, 0,             // ax, aY
+                x, y,            // xRadius, yRadius
+                0, 2 * Math.PI, // aStartAngle, aEndAngle
+                false             // aClockwise
+        );
+
+        let points = curve.getSpacedPoints(200);
+
+        let path = new THREE.Path();
+        let t = path.createGeometry(points);
+        let u = new THREE.LineBasicMaterial({color : 0xffffff});
+
+        let line = new THREE.Line(t, u);
+        scene.add(line);
+    }
+
+    createPlanets("sun2.jpg", 15, 0, 0);
+    createPlanets("mercury.jpg", 0.035 * 5, 25, 0.01);
+    createPlanets("venus.jpg", 0.086 * 5, 35, 0.01);
+//    createPlanets("earth.jpg", 0.091, 30, 0.5);
+    createPlanets("earth.jpg", 0.455, 40, 0.5);
+    createPlanets("mars.jpg", 0.049 * 5, 48, 0.5);
+    createPlanets("jupiter.jpg", 1.02 * 5, 58, 0.5);
+    createPlanets("saturn.jpg", 0.86 * 5, 80, 0);
+    createPlanets("uranus.jpg", 0.37 * 5, 100, 0);
+    createPlanets("neptune.jpg", 0.35 * 5, 110, 0);
+    createPlanets("pluto.jpg", 1.5, 130, 0);
+
+    //        createLine(15.1, 15);
+    //        createLine(20.1, 15);
+    //        createLine(28.1, 15);
+    //        createLine(40.3, 15);
+
+    camera.position.z = 50;
+//    camera.position.x = 100;
+    console.log(camera.position.x);
+    console.log(camera.position.y);
+
+    function render() {
+        requestAnimationFrame(render);
+//            scene.rotation.y += 0.005;
+
+        renderer.render(scene, camera);
+        controls.update();
+    }
+    render();
+</script>
+    <div class="note">
+        * Note: This is not the way it's supposed to be.
+    </div>
+</body>
+</html>
