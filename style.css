@@ -31,10 +31,12 @@ a:hover {
     min-height: 100vh;
     /*background: url("workspace.jpeg") no-repeat center center fixed;*/
     background-size: cover;
+    font-size: 1.5em;
 }
 
 .main h1 {
     text-align: center;
+    font-size: 2em;
 }
 
 .overlay {
