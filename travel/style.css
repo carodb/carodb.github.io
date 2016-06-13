@@ -186,6 +186,7 @@ g .country:hover {
     line-height: 35px;
     /*padding-bottom: 4px;*/
     margin-right: -3%;
+    word-wrap: break-word;
 }
 
 .country-quote {
@@ -196,7 +197,7 @@ g .country:hover {
     font-size: 14px;
     letter-spacing: 1px;
     padding: 0 40px 15px 40px;
-    width: 185px;
+    /*width: 185px;*/
     margin: 0 auto;
 
 }
