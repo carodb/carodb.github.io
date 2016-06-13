@@ -53,6 +53,7 @@ a:hover {
 
 @media (min-width: 415px) {
     .main {
+        background: #6bef5a;
         font-size: 1em;
     }
 
