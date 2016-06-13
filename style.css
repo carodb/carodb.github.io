@@ -28,6 +28,7 @@ a:hover {
 }
 
 .main {
+    background: yellow;
     padding: 5vw;
     min-height: 100vh;
     /*background: url("workspace.jpeg") no-repeat center center fixed;*/
@@ -52,6 +53,7 @@ a:hover {
 
 @media (min-width: 415px) {
     .main {
+        background: red;
         font-size: 1.5em;
     }
 
@@ -63,6 +65,7 @@ a:hover {
 
 @media (min-width: 667px) {
     .main {
+        background: blue;
         font-size: 1em;
     }
 
