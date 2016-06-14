@@ -102,6 +102,15 @@
 
         renderer.render(scene, camera);
         controls.update();
+        
+        window.addEventListener('resize', onWindowResize, false);
+
+        function onWindowResize() {
+            camera.aspect = document.documentElement.clientWidth / document.documentElement.clientHeight;
+            camera.updateProjectionMatrix();
+
+            renderer.setSize(document.documentElement.clientWidth, document.documentElement.clientHeight);
+        }
     }
     render();
 </script>
