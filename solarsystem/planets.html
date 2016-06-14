@@ -8,6 +8,10 @@
             margin: 0;
             padding: 0;
         }
+        
+        body {
+            overflow: hidden;
+        }
 
         .note {
             z-index: 1;
@@ -25,11 +29,13 @@
 <script src="js/three.min.js"></script>
 <script src="js/OrbitControls.js"></script>
 <script>
+    let width = document.documentElement.clientWidth;
+    let height = document.documentElement.clientHeight;
     let scene = new THREE.Scene();
-    let camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.1, 1000);
+    let camera = new THREE.PerspectiveCamera(50, width / height, 0.1, 1000);
 
     let renderer = new THREE.WebGLRenderer();
-    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.setSize(width, height);
     document.body.appendChild(renderer.domElement);
     let controls = new THREE.OrbitControls(camera, renderer.domElement);
 
