@@ -279,3 +279,11 @@ g .country:hover {
         width: 40vw;
     }
 }
+
+@media (max-width: 414px) {
+    .country-name {
+        letter-spacing: 5px;
+        font-size: 20px;
+    }
+
+}
