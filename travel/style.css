@@ -281,11 +281,19 @@ g .country:hover {
 }
 
 @media (max-width: 414px) {
+    .inner-svg {
+        padding: 0 15px;
+    }
+
     .country {
         fill: #2c2b5a;
     }
 
     g .country:hover {
+        fill: #5754af;
+    }
+
+    .active {
         fill: #5754af;
     }
 
