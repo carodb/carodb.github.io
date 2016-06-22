@@ -281,6 +281,10 @@ g .country:hover {
 }
 
 @media (max-width: 414px) {
+    .country {
+        fill: #2c2b5a;
+    }
+
     .country-name {
         letter-spacing: 5px;
         font-size: 20px;
