@@ -7,11 +7,7 @@ class App extends React.Component {
     }
 
     // write componentUpdates
-
     componentDidMount() {
-        this.loader();
-        window.setTimeout(this.render(), 6000)
-
         console.log('componentDidMount()');
 
         /**
@@ -59,17 +55,6 @@ class App extends React.Component {
                 });
             })
         });
-    }
-
-    loader() {
-        console.log('loader');
-
-        return (
-            <div style={{width: '100%', background: 'red'}}>
-                <img src="./media/loading.png" />
-                LOADING...
-            </div>
-        )
     }
 
     // componentWillUpdate() {
@@ -138,6 +123,10 @@ class App extends React.Component {
 
     render() {
         console.log('render');
+
+        window.setTimeout(function() {
+            document.getElementsByClassName('landing')[0].style.display = 'none';
+        }, 3000);
 
         // console.log(location.hash);
         let path = document.getElementById(this.state.countryCode);
